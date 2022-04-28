@@ -1,3 +1,4 @@
 Name: Ignacio
 Age: 27
 Favorite Color: Green
+Bootcamp Goal: Full Stack
